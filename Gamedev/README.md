@@ -22,6 +22,8 @@
 Проверка гипотез:
   * Гипотеза № 1: cредние пользовательские рейтинги платформ XOne и PC одинаковые.
   * Гипотеза № 2: cредние пользовательские рейтинги жанров Action и Sports разные.
+## Инструменты
+pandas, numpy, scipy, matplotlib
 ## Решение
 [Тетрадка](https://github.com/anik2-y/Portfolio/blob/main/Gamedev/82fc3a08-227d-4f5d-97aa-8a0078465ac7.ipynb)
 
