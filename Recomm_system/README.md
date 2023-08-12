@@ -9,6 +9,8 @@
   * покупки - purchase.
 ## Итоговый вывод
   А/Б-тест нужно считать состоявшимся. Группа "В" проигрывает по конверсии в указанные в ТЗ события группе "А".
+## Инструменты
+pandas, datetime, numpy, math, scipy, matplotlib, seaborn, plotly
 ## Решение
 [Тетрадка](https://nbviewer.org/github/anik2-y/Portfolio/blob/main/Recomm_system/5e31a726-9723-4a87-b42e-5d2f8291020d.ipynb)
 
