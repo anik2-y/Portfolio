@@ -14,5 +14,5 @@ DataLens, sql, DBeaver
 ## Решение
 [Тетрадка](https://github.com/anik2-y/Portfolio/blob/main/BI-analytics_WB/bi-analytics_wb.ipynb)
 
-[Загрузить (html)](https://disk.yandex.ru/d/lC5LXv3gLb37Eg)
+[Загрузить (html)](https://disk.yandex.ru/d/MRlBkYxiqB6E3w)
 
