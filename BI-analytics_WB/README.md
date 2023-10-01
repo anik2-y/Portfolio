@@ -12,7 +12,7 @@
 ## Инструменты
 DataLens, sql, DBeaver
 ## Решение
-[Тетрадка](https://github.com/anik2-y/Portfolio/blob/main/Mobile_app/8671d3bf-143f-48e9-b84f-c23639b8d119.ipynb)
+[Тетрадка](https://github.com/anik2-y/Portfolio/blob/main/BI-analytics_WB/bi-analytics_wb.ipynb)
 
 [Загрузить (html)](https://disk.yandex.ru/d/lC5LXv3gLb37Eg)
 
