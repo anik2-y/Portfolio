@@ -17,4 +17,4 @@
 ## Инструменты
 Excel, Power Query, VBA
 ## Решение
-[Загрузить (xlsm)](https://disk.yandex.ru/i/H39Uf1J7HDw_Fg)
+[Загрузить (xlsm)](https://disk.yandex.ru/d/-6r-YBZDsPbRXw)
